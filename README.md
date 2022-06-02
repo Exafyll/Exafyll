@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Exafyll
-- 🌱 I’m currently studeing System development
+- 🌱 I’m currently studeing System development at Universety West
 
 <!---
 Exafyll/Exafyll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
